@@ -1,0 +1,6 @@
+#ignore vscode temp directory
+.vscode
+
+#ignore executable files
+client
+server
